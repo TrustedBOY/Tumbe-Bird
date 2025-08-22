@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|d:\\personal\\ce\\learning\\unity\\2025.08.18-tumblebird\\unity\\flarpy bird\\assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\zonescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\zonescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\pausegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\pausegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:34:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:59:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseGame.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\PauseGame.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseGame.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\PauseGame.cs",
+              "RelativeToolTip": "Assets\\PauseGame.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:39:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZoneScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\ZoneScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ZoneScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\ZoneScript.cs",
+              "RelativeToolTip": "Assets\\ZoneScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:36:48.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

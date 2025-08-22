@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\character\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|d:\\personal\\ce\\learning\\unity\\2025.08.18-tumblebird\\unity\\flarpy bird\\assets\\pausegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\pausegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\objects\\cloud\\cloudscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\objects\\cloud\\cloudscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\objects\\cloud\\cloudspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\objects\\cloud\\cloudspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\zonescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\zonescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8660A-4A47-706D-55C4-EA9FCFD2EAC7}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\Character\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\BirdScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\Character\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\Character\\BirdScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:50:09.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseGame.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\PauseGame.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseGame.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\PauseGame.cs",
+              "RelativeToolTip": "Assets\\PauseGame.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:39:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZoneScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\ZoneScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ZoneScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\ZoneScript.cs",
+              "RelativeToolTip": "Assets\\ZoneScript.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:36:48.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:34:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudSpawnerScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\Objects\\Cloud\\CloudSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Objects\\Cloud\\CloudSpawnerScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\Objects\\Cloud\\CloudSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Objects\\Cloud\\CloudSpawnerScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:17:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloudScript.cs",
+              "DocumentMoniker": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\Objects\\Cloud\\CloudScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Objects\\Cloud\\CloudScript.cs",
+              "ToolTip": "D:\\Personal\\CE\\Learning\\Unity\\2025.08.18-TumbleBird\\Unity\\Flarpy Bird\\Assets\\Objects\\Cloud\\CloudScript.cs",
+              "RelativeToolTip": "Assets\\Objects\\Cloud\\CloudScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:14:19.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
